@@ -1,1 +1,1 @@
-game:GeService("Players").LocalPlayer:Kick("Du wurdest permanent von allen Spielen gebannt. Grund: Schimpfwörter")
+game:GetService("Players").LocalPlayer:Kick("Du wurdest permanent von allen Spielen gebannt. Grund: Schimpfwörter")
